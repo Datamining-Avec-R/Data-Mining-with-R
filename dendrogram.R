@@ -6,5 +6,4 @@
 
 setwd("C:/Users/abhij/Desktop")
 x <- read.csv("C:/Users/abhij/Desktop/data.csv", header = TRUE, stringsAsFactors=FALSE)
-
 plot(hclust(dist(x)))
