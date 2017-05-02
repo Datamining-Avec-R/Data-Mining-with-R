@@ -1,5 +1,4 @@
 # Auth: Abhijeet Chopra
-# CWID: 50180612 
 # Date: 30 Apr 2017
 # Prog: K-means
 # Desc: R Script to find clusters using k-means algorithm
